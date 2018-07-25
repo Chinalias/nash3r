@@ -17,7 +17,8 @@ WELCOME
 •عندك فكره موضوع تفضل شآركنا فيه:jack_o_lantern::gift:
 •واخيرا حييييياكم واكيد وجودكم هو اللي بيدعمنا وراح نكون الافضل.
 شرفنا يا عسل:wink: :kissing_heart:
-https://discord.gg/6z6j9ZG
+
+https://discord.gg/MN8JBkY
 
                      
 الدعووة خاصة لك ي قلبي ... [ ${member}  ]
@@ -41,7 +42,7 @@ WELCOME
 •واخيرا حييييياكم واكيد وجودكم هو اللي بيدعمنا وراح نكون الافضل.
 شرفنا يا عسل:wink: :kissing_heart:
 
-https://discord.gg/6z6j9ZGB
+https://discord.gg/MN8JBkY
 
 الدعووة خاصة لك ي قلبي ... [ ${member}  ]
 **`) 
