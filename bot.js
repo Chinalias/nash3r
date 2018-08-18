@@ -18,7 +18,7 @@ WELCOME
 •واخيرا حييييياكم واكيد وجودكم هو اللي بيدعمنا وراح نكون الافضل.
 شرفنا يا عسل:wink: :kissing_heart:
 
-https://discord.gg/6cwwwxW
+https://discord.gg/cNDSrFg
 
                      
 الدعووة خاصة لك ي قلبي ... [ ${member}  ]
@@ -42,7 +42,7 @@ WELCOME
 •واخيرا حييييياكم واكيد وجودكم هو اللي بيدعمنا وراح نكون الافضل.
 شرفنا يا عسل:wink: :kissing_heart:
 
-https://discord.gg/6cwwwxW
+https://discord.gg/cNDSrFg
 
 الدعووة خاصة لك ي قلبي ... [ ${member}  ]
 **`) 
