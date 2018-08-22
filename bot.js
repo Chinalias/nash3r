@@ -18,8 +18,8 @@ WELCOME
 •واخيرا حييييياكم واكيد وجودكم هو اللي بيدعمنا وراح نكون الافضل.
 شرفنا يا عسل:wink: :kissing_heart:
 
-**Dark server**
-https://discord.gg/yNvx965 
+**VICTOOR server**
+https://discord.gg/7HgQU8s
                      
 الدعووة خاصة لك ي قلبي ... [ ${member}  ]
 **`)
@@ -42,8 +42,8 @@ WELCOME
 •واخيرا حييييياكم واكيد وجودكم هو اللي بيدعمنا وراح نكون الافضل.
 شرفنا يا عسل:wink: :kissing_heart:
 
-**Dark server**
-https://discord.gg/yNvx965
+**VICTOOR server**
+https://discord.gg/7HgQU8s
 
 الدعووة خاصة لك ي قلبي ... [ ${member}  ]
 **`) 
